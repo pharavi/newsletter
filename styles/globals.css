@@ -1,0 +1,10 @@
+@tailwind base;
+
+@layer base {
+    h4 {
+        @apply text-lg text-zinc-500 font-bold mb-2
+    }
+}
+
+@tailwind components;
+@tailwind utilities;
